@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/Alex/Desktop/NAI/zad2/main.cpp
+functional
+-
+iomanip
+-
+iostream
+-
+list
+-
+random
+-
+vector
+-
+
